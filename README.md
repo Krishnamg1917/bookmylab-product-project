@@ -65,7 +65,7 @@ Despite the growth of platforms like 1mg and Practo, lab test UX in India remain
 
 - Lovable.dev  
 - Google Forms (User Surveys)  
-- Balsamiq-style wireframes (Low-fidelity)
+- Visily.ai (Low-fidelity wireframing)
 
 ---
 
